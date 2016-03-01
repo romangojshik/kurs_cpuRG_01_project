@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">kurs_cpuRG_01</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cpu">CPU</string>
+    <string name="title_activity_ram">RAM</string>
+    <string name="title_activity_phone">Phone</string>
+    <string name="title_activity_sim">Sim</string>
+    <string name="title_activity_battery">Battery</string>
+    <string name="title_activity_android">Android</string>
+    <string name="title_activity_menu__info">menu_Info</string>
+</resources>
